@@ -7,7 +7,7 @@ public class Emp_Wage_Computation_prob {
 	public static final int IS_FULL_TIME = 2;
 	public static final int EMP_RATE_PER_HOUR = 20;
 	public static final int NUM_OF_WORKING_DAYS = 20;
-	public static final int MAX_HRS_IN_MONTH = 10;
+	public static final int MAX_HRS_IN_MONTH = 100;
 	
 	public static void main(String[] args) {
 		// Variables
